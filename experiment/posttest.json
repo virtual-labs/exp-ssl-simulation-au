@@ -2,37 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The purpose of the SSL certificate requires in HTTP is ___________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+          "a": "For making security weak.", 
+
+          "b": "For making information move faster.", 
+          
+          "c": "For encrypted data sent over HTTP protocol.", 
+          
+          "d": "For sending and receiving emails unencrypted." 
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which encryption protocol does SSL employ to protect user and server communications?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+          "a": "SHA-256", 
+
+          "b": "AES", 
+          
+          "c": "RSA", 
+          
+          "d": "HMAC" 
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which version of SSL is considered insecure and should not be used? ",
+      "answers": {
+          "a": "SSL 2.0",
+
+          "b": "SSL 3.0", 
+          
+          "c": "TLS 1.0",
+          
+          "d": "TLS 1.2 "
       },
-      "correctAnswer": "c",
+       
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
