@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The purpose of the SSL certificate requires in HTTP is ___________",
+      "question": "What is the purpose of an SSL certificate in HTTP?",
       "answers": {
           "a": "For making security weak.", 
 

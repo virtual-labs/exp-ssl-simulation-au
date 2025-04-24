@@ -2,9 +2,7 @@
 
 SSL (Secure Sockets Layer), now known as TLS (Transport Layer Security), is a protocol for encrypting and securing data transmitted over the internet. It provides a secure and encrypted channel between a client (such as a web browser) and a server, ensuring that data transmitted over the internet cannot be intercepted or tampered with by third parties.
 
-When an SSL/TLS connection is established between a client and server, the data transmitted between them is encrypted using a cryptographic key. This key is generated during the SSL/TLS handshake process and is known only to the client and server. The encryption
-
-provided by SSL/TLS ensures that even if the data is intercepted by a third party, it cannot be read without the cryptographic key.
+When an SSL/TLS connection is established between a client and server, the data transmitted between them is encrypted using a cryptographic key. This key is generated during the SSL/TLS handshake process and is known only to the client and server. The encryption provided by SSL/TLS ensures that even if the data is intercepted by a third party, it cannot be read without the cryptographic key.
 
 SSL/TLS also provides authentication, which ensures that the client is communicating with the intended server and not an impostor. This is done by verifying the server's digital certificate, which contains information about the server's identity and public key. The client can use this information to ensure that it is communicating with a legitimate server.
 
