@@ -4,15 +4,11 @@
     {
       "question": "What is the purpose of an SSL certificate in HTTP?",
       "answers": {
-          "a": "For making security weak.", 
-
-          "b": "For making information move faster.", 
-          
-          "c": "For encrypted data sent over HTTP protocol.", 
-          
-          "d": "For sending and receiving emails unencrypted." 
+          "a": "For making security weak.",
+          "b": "For making information move faster.",
+          "c": "For encrypted data sent over HTTP protocol.",
+          "d": "For sending and receiving emails unencrypted."
       },
-      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -46,4 +42,4 @@
       "difficulty": "beginner"
     }
   ]
-}
+} 
