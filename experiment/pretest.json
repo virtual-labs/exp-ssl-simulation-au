@@ -14,30 +14,26 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is a “man-in-the-middle” attack in SSL?",
+      "question": "What is a 'man-in-the-middle' attack in SSL?",
       "answers": {
           "a": "An attack where a hacker intercepts and alters SSL communication between a user and a serve", 
           "b":"An attack where a hacker gains unauthorized access to a server through SSL", 
-          "c": "An attack where a hacker installs malware on a user’s computer through SSL", 
-          "d": "An attack where a hacker steals a user’s SSL certificate"
+          "c": "An attack where a hacker installs malware on a user's computer through SSL", 
+          "d": "An attack where a hacker steals a user's SSL certificate"
       },
      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "SSL is used for _______  ",
+      "question": "What are the primary security functions of SSL?",
       "answers": {
-          "a": "integrity and authenticity", 
-
-         "b": "integrity and non-repudiation ",
-          
-          "c": "authenticity and privacy", 
-          
-          "d": "confidentiality and integrity" 
+        "a": "Integrity and authenticity",
+        "b": "Integrity and non-repudiation",
+        "c": "Authenticity and privacy",
+        "d": "Confidentiality and integrity"
       },
-       
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
-}
+} 
