@@ -2,38 +2,44 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the purpose of an SSL certificate in HTTP?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+          "a": "For making security weak.",
+          "b": "For making information move faster.",
+          "c": "For encrypted data sent over HTTP protocol.",
+          "d": "For sending and receiving emails unencrypted."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Which encryption protocol does SSL employ to protect user and server communications?",
+      "answers": {
+          "a": "SHA-256", 
+
+          "b": "AES", 
+          
+          "c": "RSA", 
+          
+          "d": "HMAC" 
+      },
+     "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which version of SSL is considered insecure and should not be used? ",
+      "answers": {
+          "a": "SSL 2.0",
+
+          "b": "SSL 3.0", 
+          
+          "c": "TLS 1.0",
+          
+          "d": "TLS 1.2 "
+      },
+       
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
-}
+} 
