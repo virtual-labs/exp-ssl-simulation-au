@@ -1,4 +1,4 @@
-### Theory
+
 
 SSL (Secure Sockets Layer), now known as TLS (Transport Layer Security), is a protocol for encrypting and securing data transmitted over the internet. It provides a secure and encrypted channel between a client (such as a web browser) and a server, ensuring that data transmitted over the internet cannot be intercepted or tampered with by third parties.
 

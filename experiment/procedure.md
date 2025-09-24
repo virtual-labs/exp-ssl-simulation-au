@@ -1,4 +1,3 @@
-### Procedure
 
 This experiment simplifies the SSL/TLS handshake to demonstrate the core concepts of establishing a secure channel.
 
